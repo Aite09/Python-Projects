@@ -2,12 +2,14 @@
 A simple snake game built using Python's Turtle graphics library.
 
 ## About
-Classic snake game mechanics - eat food to grow, don't run into walls or your own tail
-Uses the Turtle graphics library in Python to render gameplay
-Single player gameplay with keyboard controls
-Tracks and displays score
-Gets faster and more difficult as snake grows
-Usage
+- Classic snake game mechanics
+- eat food to grow, don't run into walls or your own tail
+- Uses the Turtle graphics library in Python to render gameplay
+- Single player gameplay with keyboard controls. 
+- Tracks and displays score
+- Gets faster and more difficult as snake grows
+  
+## Usage
 To run the game locally:
 
 - Clone the repository
@@ -25,6 +27,7 @@ To run the game locally:
 
 
 ## Features
+
 - Randomly spawning food
 
 - Score tracking
