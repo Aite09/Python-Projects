@@ -10,11 +10,11 @@ Gets faster and more difficult as snake grows
 Usage
 To run the game locally:
 
-Clone the repository
+- Clone the repository
 
-Run python main.py
+- Run python main.py
 
-Use arrow keys to control the snake
+- Use arrow keys to control the snake
 
 Eat food and avoid walls/tail to grow snake and score points
 
