@@ -6,11 +6,12 @@ Guide a turtle to cross a busy road and river using arrow keys
 Avoid getting hit by cars and falling into the river
 Difficulty increases as turtle levels up
 Uses Python Turtle graphics to render gameplay
-Usage
+
+## Usage
 To run the game locally:
 
 Clone the repository
-Run python turtle_crossing.py
+Run python main.py
 Use up/down arrow keys to move the turtle
 Avoid cars and get to the other side!
 Game preview:
@@ -19,7 +20,7 @@ Game preview:
 
 
 ## Features
-Randomly generated traffic (car speed and frequency)
-Score and level display
-Collision detection
-Game over and replay
+- Randomly generated traffic (car speed and frequency)
+- Score and level display
+- Collision detection
+- Game over and replay
