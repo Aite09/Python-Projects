@@ -16,21 +16,21 @@ To run the game locally:
 
 - Use arrow keys to control the snake
 
-Eat food and avoid walls/tail to grow snake and score points
+- Eat food and avoid walls/tail to grow snake and score points
 
-Game preview:
+## Game preview:
 
 
 <img width="456" alt="image" src="https://github.com/Aite09/Python-Projects/assets/130272673/8977c61f-2381-4b97-9fe5-6fa1a4c79459">
 
 
 ## Features
-Randomly spawning food
+- Randomly spawning food
 
-Score tracking
+- Score tracking
 
-Variable snake speed
+- Variable snake speed
 
-Game over on collision
+- Game over on collision
 
-Replay option
+- Replay option
