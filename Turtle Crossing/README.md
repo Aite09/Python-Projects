@@ -1,5 +1,4 @@
 # Turtle Crossing
-
 - A turtle crossing game built with Python Turtle
 - Help the turtle get across the road safely!
 
